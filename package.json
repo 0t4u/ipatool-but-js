@@ -1,0 +1,19 @@
+{
+  "name": "ipaservice",
+  "version": "0.0.1",
+  "description": "ipatool but javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ay3",
+  "license": "ISC",
+  "dependencies": {
+    "applesign": "^3.9.4",
+    "fetch-retry": "^5.0.1",
+    "getmac": "^5.20.0",
+    "node-fetch": "^3.2.0",
+    "plist": "^3.0.4"
+  }
+}
