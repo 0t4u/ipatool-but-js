@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ay3",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "fetch-retry": "^5.0.1",
     "getmac": "^5.20.0",
