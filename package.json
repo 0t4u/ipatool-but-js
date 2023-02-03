@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ay3",
+  "author": "0t4u",
   "license": "MIT",
   "dependencies": {
     "fetch-retry": "^5.0.1",
